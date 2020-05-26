@@ -3,7 +3,7 @@
 Comparing Global Temperature data with San Jose temperature data.
 This is a project towards Udacity's Data Analyst Nanodegree course requirements. The goal is to create visualization and write up describing the similarities and differences between global temperature trends and temperature trends in the big city to the local city. 
 
-# Objectives
+## Objectives
 
 - Analyze local and global temperature data and compare the temperature trends
 - Practice data extraction from database in SQL
@@ -11,7 +11,7 @@ This is a project towards Udacity's Data Analyst Nanodegree course requirements.
 - Creating Visualizations and interpreting them
 - Outlining observations and key considerations when deciding how to visualize the trends
 
-# Tools Involved
+## Tools Involved
 
 - Python
 - SQL
